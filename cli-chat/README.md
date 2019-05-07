@@ -1,4 +1,4 @@
-###Start the chat interactively
+### Start the chat interactively
 
 **Create your memberlist node**
 
