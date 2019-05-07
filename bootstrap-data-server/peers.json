@@ -2,9 +2,18 @@
   "Config": {
     "maxpeers": 8,
     "minrefillcandidates": 5,
-    "numpeers": 2
+    "numpeers": 3
   },
   "Peers": {
+    "06e6620b-8c1b-4d05-806e-677378387ef3": {
+      "id": "06e6620b-8c1b-4d05-806e-677378387ef3",
+      "name": "Stefans-MacBook-Pro.local-alice-33304d92-70a7-11e9-991f-8c8590a2bb7c",
+      "ip": "127.0.0.1",
+      "port": "59044",
+      "protocol": "tcp",
+      "status": "0",
+      "timestamp": "1557219910"
+    },
     "7a111abb-c7df-42a9-aecd-10ebbffc393c": {
       "id": "7a111abb-c7df-42a9-aecd-10ebbffc393c",
       "name": "alice",
